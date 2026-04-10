@@ -265,7 +265,7 @@ class WebTransportSim {
 if (cluster.isMaster) {
     console.log(`
     ╔══════════════════════════════════════════════════╗
-    ║   COMBINED SHADOW WORM 2026 - HTTP/2+QUIC+WT    ║
+    ║   CAZZYBYPASS 2026 - HTTP/2+QUIC+WT             ║
     ║   TARGET: ${target}                               ║
     ║   TIME: ${timeSec}s | THREADS: ${threads} | RPS: ${rps}   ║
     ╚══════════════════════════════════════════════════╝
